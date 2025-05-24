@@ -91,28 +91,28 @@ HEAT_TRANSFER_PROJECT/
 
 ##  Sample Output Previews
 
-> You can find these images in the respective folders:
+ You can find these images in the respective folders:
 
-- 📈 `Q1/plot.jpg`: Steady-state temperature distribution
-- 📉 `Q2/q2 figure1.jpg`: Time vs. Temperature
-- 📊 `Q2/q2 figure2.jpg`: Node Temperature Evolution
+-  `Q1/plot.jpg`: Steady-state temperature distribution
+-  `Q2/q2 figure1.jpg`: Time vs. Temperature
+-  `Q2/q2 figure2.jpg`: Node Temperature Evolution
 
 ---
 
 ##  Resources
 
-- 📄 `HEAT Project.pdf`: Full report with derivations, equations, and results.
-- 📂 `Q1`, `Q2`: Separated folders for each question, including MATLAB code and plots.
-- 📊 `mat.xlsx`: Data used for visualization and analysis in Q2.
+-  `HEAT Project.pdf`: Full report with derivations, equations, and results.
+-  `Q1`, `Q2`: Separated folders for each question, including MATLAB code and plots.
+-  `mat.xlsx`: Data used for visualization and analysis in Q2.
 
 ---
 
 ##  Contact
 
 **Ahmed M. Bsher**  
-📧 ahmedbsher999@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-bsher-921242232/)  
-🌐 [Portfolio Website](https://ahmedbsher.github.io/My-Portfolio/)
+ ahmedbsher999@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/ahmed-bsher-921242232/)  
+ [Portfolio Website](https://ahmedbsher.github.io/My-Portfolio/)
 
 ---
 
