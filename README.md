@@ -91,18 +91,16 @@ HEAT_TRANSFER_PROJECT/
 
 ##  Sample Output Previews
 
- You can find these images in the respective folders:
-
 -  `Q1/plot.jpg`: Steady-state temperature distribution
-![Temperature Distribution Plot](Q1/plot.jpg) <p align="center">
+<p align="center">
   <img src="Q1/plot.jpg" alt="Temperature Distribution Plot" width="600"/>
 </p>
 -  `Q2/q2 figure1.jpg`: Time vs. Temperature
-![Time vs. Temperature](Q2/q2 figure1.jpg) <p align="center">
+<p align="center">
   <img src="Q2/q2 figure1.jpg" alt="Time vs. Temperature" width="600"/>
 </p>
 -  `Q2/q2 figure2.jpg`: Node Temperature Evolution
-![Temperature Distribution across plate](Q2/q2 figure2.jpg) <p align="center">
+<p align="center">
   <img src="Q2/q2 figure2.jpg" alt="Temperature Distribution across plate" width="600"/>
 </p>
 
