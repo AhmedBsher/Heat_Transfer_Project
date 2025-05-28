@@ -95,10 +95,12 @@ HEAT_TRANSFER_PROJECT/
 <p align="center">
   <img src="Q1/plot.jpg" alt="Temperature Distribution Plot" width="600"/>
 </p>
--  `Q2/q2 figure1.jpg`: Time vs. Temperature
+
+-  `Q2/q2 figure1.jpg` : Time vs. Temperature
 <p align="center">
   <img src="Q2/q2 figure1.jpg" alt="Time vs. Temperature" width="600"/>
 </p>
+
 -  `Q2/q2 figure2.jpg`: Node Temperature Evolution
 <p align="center">
   <img src="Q2/q2 figure2.jpg" alt="Temperature Distribution across plate" width="600"/>
