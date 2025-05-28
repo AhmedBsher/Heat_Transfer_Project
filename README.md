@@ -94,6 +94,7 @@ HEAT_TRANSFER_PROJECT/
  You can find these images in the respective folders:
 
 -  `Q1/plot.jpg`: Steady-state temperature distribution
+-  ![Temperature Distribution Plot](Q1/plot.jpg)
 -  `Q2/q2 figure1.jpg`: Time vs. Temperature
 -  `Q2/q2 figure2.jpg`: Node Temperature Evolution
 
